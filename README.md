@@ -29,7 +29,7 @@ El programa implementa un juego de sopa de letras por consola, utilizando palabr
 
 ## Ejecución del programa
 
-- El proyecto fue desarrollado utilizando el IDE Code::Blocks. Tienes dos formas de ejecutarlo: 
+- El proyecto fue desarrollado utilizando el IDE Code::Blocks.  Opciones para ejecutarlo: 
 
 #### Opción 1: Usando Code::Blocks
 
